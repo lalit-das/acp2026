@@ -1,0 +1,3 @@
+echo "*.bin" >> .gitignore
+echo "*.txt" >> .gitignore
+echo "bin/" >> .gitignore
